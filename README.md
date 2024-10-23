@@ -4,3 +4,4 @@
 ![ee-chart ET TerraClimate](https://github.com/user-attachments/assets/62949b0b-d2bd-4d8f-8207-4a61463a736c)
 ![ee-chart ET SMAP](https://github.com/user-attachments/assets/caaa000e-4d45-4d99-89b9-59f02a757c7b)
 ![ee-chart ET Penman-Monteith-Leuning](https://github.com/user-attachments/assets/0db19995-dcfd-4f9d-9b5d-21ef66a8bb45)
+![GEE Snipet](https://github.com/user-attachments/assets/36dcfc47-4105-45ab-aeb6-6033c2a55eed)
